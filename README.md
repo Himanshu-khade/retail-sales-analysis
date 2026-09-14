@@ -1,116 +1,112 @@
-# Financial Performance Analysis
-
-## Retail Sales Data Analysis & Business Insights
-
-A personal data analytics project focused on analyzing retail sales performance and identifying meaningful business insights using **Microsoft Excel, SQL (PostgreSQL), and Power BI**.
+# Retail Sales & Financial Performance Analysis
 
 ## Project Overview
 
-This project analyzes retail sales data to understand sales and profit performance across different regions, categories, segments, states, and products.
+Retail Sales & Financial Performance Analysis is a data analytics project focused on understanding sales, profit, customer, product, and regional performance using retail sales data.
 
-The project follows a complete data analysis workflow, starting with data preparation and analysis in Excel, followed by SQL-based analysis and finally interactive visualization using Power BI.
+I worked on this project to analyze business data and convert sales information into meaningful insights that can support better business decision-making.
 
-## Project Objective
+The project combines data cleaning, SQL analysis, DAX calculations, and interactive Power BI visualization to provide a clear view of overall sales and financial performance.
 
-The main objectives of this project are:
+## Objectives
 
-- To clean and prepare retail sales data for analysis.
-- To analyze sales and profit performance using Excel.
-- To perform business-oriented analysis using SQL.
-- To identify important sales and profitability patterns.
-- To analyze regional, category, segment, and product performance.
-- To create an interactive Power BI dashboard.
-- To derive meaningful business insights from the analysis.
+- Analyze overall sales and profit performance
+- Identify top-performing customers and products
+- Analyze sales and profit across different regions and states
+- Compare different product categories
+- Understand customer segment performance
+- Analyze order and quantity trends
+- Calculate and evaluate profit margins
+- Identify loss-making products
+- Present business insights through an interactive dashboard
 
 ## Tools & Technologies
 
-### Microsoft Excel
-- Data cleaning and preparation
-- Calculations
-- Pivot Table analysis
-- Sales and profit analysis
+- **Microsoft Excel** – Data cleaning and preparation
+- **Microsoft SQL Server** – Data analysis and querying
+- **Power BI** – Interactive dashboard and visualization
+- **DAX** – Measures and business calculations
 
-### SQL (PostgreSQL)
-- Data querying
-- Filtering and sorting
-- Aggregation
-- Grouping
+## SQL Analysis
+
+The project includes SQL analysis using:
+
+- SELECT statements
+- Aggregate functions
+- JOINs
+- CASE statements
+- Subqueries
+- Common Table Expressions (CTEs)
+- Window functions
+- GROUP BY and HAVING
+- Sorting and filtering
+- Customer and product analysis
 - Regional and category analysis
-
-### Power BI
-- Data visualization
-- KPI analysis
-- Interactive dashboard
-- Business performance reporting
-
-## Project Workflow
-
-### 1. Data Preparation – Excel
-
-The dataset was cleaned and prepared in Microsoft Excel. The data was reviewed for consistency and used to perform initial calculations and Pivot Table analysis.
-
-### 2. Exploratory Analysis – Excel
-
-Pivot Tables were created to analyze sales and profit performance across categories, segments, and other business dimensions.
-
-### 3. SQL Analysis – PostgreSQL
-
-Performed exploratory data analysis using SQL, including aggregate functions, JOINs, CASE statements, subqueries, CTEs, and window functions to analyze sales, profit, product, customer, and regional performance.
-
-### 4. Business Analysis
-
-The results from Excel and SQL were used to understand regional, category, segment, state, and product-level performance.
-
-### 5. Power BI Dashboard
-
-The analyzed data was used to create an interactive Power BI dashboard for visualizing key sales and profit metrics.
-
-### 6. Insights & Recommendations
-
-The final analysis was used to identify important business insights and provide data-driven recommendations.
-
-## Key Analysis Areas
-
-- Overall sales performance
-- Overall profit performance
-- Sales by region
-- Sales and profit by category
-- Segment performance
-- State-level sales performance
-- Product-level performance
-- Regional comparisons
-- Category comparisons
-
-## Key Business Insights
-
-The analysis highlighted differences in sales and profitability across regions, categories, segments, states, and products.
-
-The results helped identify strong-performing areas as well as areas that may require further attention. The Power BI dashboard provides an interactive way to explore these performance patterns.
+- Top-performing and loss-making analysis
 
 ## Power BI Dashboard
 
-The final Power BI dashboard brings together the major sales and profit metrics and provides an interactive view of business performance.
+The interactive dashboard provides insights into:
+
+- Total Sales
+- Total Profit
+- Total Quantity
+- Total Orders
+- Profit Margin
+- Sales by Category
+- Profit by Category
+- Top 10 Products by Sales
+- Monthly Sales Trend
+- Sales by Region
+- Sales Distribution by Customer Segment
+
+## 📈 Dashboard Preview
+
+The Power BI dashboard consolidates key sales and profit metrics into a single interactive view, allowing users to explore performance across region, category, customer segment, and product.
+
+![Power BI Dashboard]
 
 
-![Power BI Dashboard](final%20dashboard%20image.png)
-It allows users to explore performance across different business dimensions and understand the overall financial performance of the retail dataset.
+## Key Business Insights
+
+The analysis helps understand:
+
+- Which products generate the highest sales and profit
+- Which regions contribute most to sales
+- Which customer segments perform better
+- Category-wise sales and profitability
+- Products generating losses
+- Customer-level performance
+- Overall sales and profit trends
 
 ## Project Files
 
 | File | Description |
 |------|-------------|
-| `EXCEL CLEANED FINAL` | Cleaned data and Excel analysis |
-| `order_cleaned.csv` | Cleaned dataset used for SQL analysis |
-| `sql project query.sql` | SQL queries used for business analysis |
-| `financial performance analysis dashboard` | Final Power BI dashboard |
-| `final documentation.pdf` | Complete project documentation |
+| `EXCEL CLEANED FINAL.xlsx` |  Cleaned retail sales data |
+| `order_cleaned.csv` | Dataset used for SQL analysis | 
+| `sql query - SQL Server.sql` | SQL Server analysis queries |
+| `financial performance analaysis dashboard final.pbix` | Power BI dashboard |
+| `final dashboard image.png` | Dashboard preview |
+| `final documentation.pdf` | Project documentation |
 
-## Project Documentation
+##  About the Project
 
-The complete project documentation is available in the **final documentation.pdf** file included in this repository.
+This project represents my hands-on work in data analytics, where I worked with retail sales data to perform data preparation, business analysis, SQL querying, DAX calculations, and dashboard development.
 
-## Author
+Through this project, I strengthened my practical understanding of **Excel, Microsoft SQL Server, Power BI, and DAX**, with a focus on converting business data into useful and understandable insights.
 
-**Shalita. R**
 
-Personal Data Analytics Portfolio Project
+**Technologies:** Excel | Microsoft SQL Server | Power BI | DAX
+
+## 📄 Project Documentation
+
+A detailed write-up of this project — covering the business problem, data cleaning steps, SQL analysis approach, and dashboard design .
+
+It includes a deeper explanation of the objectives, methodology, and key findings beyond what's summarized in this README.
+
+## Author 
+
+**Himanshu Khade**
+
+---
