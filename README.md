@@ -64,7 +64,7 @@ The interactive dashboard provides insights into:
 
 The Power BI dashboard consolidates key sales and profit metrics into a single interactive view, allowing users to explore performance across region, category, customer segment, and product.
 
-![Power BI Dashboard]
+![Power BI Dashboard](Dashboard.png)
 
 
 ## Key Business Insights
