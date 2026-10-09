@@ -86,9 +86,9 @@ The analysis helps understand:
 | `EXCEL CLEANED FINAL.xlsx` |  Cleaned retail sales data |
 | `order_cleaned.csv` | Dataset used for SQL analysis | 
 | `sql query - SQL Server.sql` | SQL Server analysis queries |
-| `financial performance analaysis dashboard final.pbix` | Power BI dashboard |
+| `Retail Sales Analysis Dashboard` | Power BI dashboard |
 | `final dashboard image.png` | Dashboard preview |
-| `final documentation.pdf` | Project documentation |
+| `Documentation.pdf` | Project documentation |
 
 ##  About the Project
 
